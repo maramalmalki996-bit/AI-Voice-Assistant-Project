@@ -16,11 +16,14 @@ When the timer finishes Alex answers her question. The code creates a new gTTS o
 
 The discussion between Emily and Alex covers five steps. First Emily asks where to start learning artificial intelligence and Alex tells her to learn Python and basic mathematics. Second she asks about libraries and he recommends NumPy and Pandas for data and Scikit Learn for machine learning. Third they talk about building real projects for GitHub repositories to show skills. Fourth they discuss deep learning neural networks for advanced computer vision tools. Finally Emily thanks Alex for the amazing roadmap and Alex wishes her good luck with her AI assignment project.
 
-To prove that my project works perfectly and meets all requirements I used an online screen recorder to capture the final output. The recorded video captures the browser screen and the laptop system sound together showing the sequential conversation and the active audio players. I uploaded the final video file directly to this repository under the name output video webm so you can watch and hear the full assistant performance.
+To prove that my project works perfectly and meets all requirements I used an online screen recorder to capture the final output. The recorded video captures the browser screen and the laptop system sound together showing the sequential conversation and the active audio players. I uploaded the final video file directly to this repository under the name video mp4 so you can watch and hear the full assistant performance.
+
+[Watch the Project Video Output Demo](video.mp4)
 
 How to Open and Run this Project
 
-To open the project repository and run the notebook you must follow these exact execution steps. First click on the python notebook file inside this repository which is named Voice Assistant Project ipynb. When the file opens look at the very top of the script preview window and you will see a prominent button that says Open in Colab. Click on this button and the web browser will automatically redirect you to the live Google Colab environment.
+To open the project repository and run the notebook you must follow these exact execution steps. First click on the python notebook file inside this repository which is named Voice Assistant Project ipynb.
+When the file opens look at the very top of the script preview window and you will see a prominent button that says Open in Colab. Click on this button and the web browser will automatically redirect you to the live Google Colab environment.
 
 Once you are inside the Google Colab interface you will see the code blocks displayed on your screen. Go to the top horizontal menu bar of the page and click on the option named Runtime. A vertical dropdown menu will open containing multiple commands. Look through this menu and click on the option that says Run all. 
 
