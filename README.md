@@ -18,7 +18,7 @@ The discussion between Emily and Alex covers five steps. First Emily asks where 
 
 To prove that my project works perfectly and meets all requirements I used an online screen recorder to capture the final output. The recorded video captures the browser screen and the laptop system sound together showing the sequential conversation and the active audio players. I uploaded the final video file directly to this repository under the name video mp4 so you can watch and hear the full assistant performance.
 
-[Watch the Project Video Output Demo](output_video.mp4)
+[Watch the Project video output Demo](output_video.mp4)
 
 How to Open and Run this Project
 
